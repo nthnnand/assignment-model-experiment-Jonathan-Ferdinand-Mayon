@@ -1,0 +1,81 @@
+split,review_id,review_text,ground_truth,raw_output,pred_llm,status,error,attempts,latency_s,prompt_tokens,output_tokens,thought_tokens,total_tokens,loop_wall_time_s,model,run_timestamp
+utama,190,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,1.6925909169949591,98,2,0,100,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,69,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,positif,ok,,1,1.1615344579913653,104,2,0,106,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,116,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif,positif,ok,,1,0.9934780419571325,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,70,"Kualitas produk sangat memuaskan, akan order lagi.",positif,positif,positif,ok,,1,0.6831965830060653,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,174,"Ukuran tidak sesuai, terlalu kecil dari yang dipesan.",negatif,negatif,negatif,ok,,1,0.846510290983133,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,7,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,1.11432487500133,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,72,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif,positif,ok,,1,0.5481896660057828,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,55,"Fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,positif,positif,ok,,1,0.6166766660171561,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,75,"Produk palsu, bukan barang original seperti yang dijanjikan.",negatif,negatif,negatif,ok,,1,0.9511601669946685,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,115,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,negatif,ok,,1,0.5570979579933919,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,162,"Fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,positif,positif,ok,,1,0.5157502079964615,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,113,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,negatif,ok,,1,0.7123858340200968,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,11,"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,positif,positif,ok,,1,0.6622951250174083,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,191,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,positif,ok,,1,0.7999593749991618,105,2,0,107,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,61,"Sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,negatif,negatif,ok,,1,0.696787792025134,105,2,0,107,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,19,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif,positif,ok,,1,0.533103541994933,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,192,Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,negatif,ok,,1,0.6210585830267519,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,189,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,positif,ok,,1,0.6199910839786753,105,2,0,107,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,4,Warna produk berbeda jauh dari foto di listing.,negatif,negatif,negatif,ok,,1,0.7791457499843091,99,2,0,101,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,48,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,0.6982146659865975,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,2,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,ok,,1,0.9853290420142002,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,31,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,ok,,4,0.6566593329771422,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,136,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif,positif,ok,,3,1.307906332949642,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,81,"Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,positif,positif,ok,,1,0.6478753340197727,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,10,"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,positif,positif,ok,,1,0.8280036669457331,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,90,"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,positif,positif,ok,,1,0.9708002500119619,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,20,"Pelayanan cepat tanggap, produk berkualitas tinggi.",positif,positif,positif,ok,,1,0.7393932919949293,99,2,0,101,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,149,"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,positif,positif,ok,,1,0.8851510410313495,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,182,"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif,positif,ok,,1,0.5113682909868658,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,137,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,0.696201957995072,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,8,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,positif,ok,,1,0.7104334580362774,99,2,0,101,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,128,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.49289908399805427,98,2,0,100,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,135,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,positif,ok,,1,0.554843958991114,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,168,"Tidak sesuai standar, banyak cacat pada produk yang diterima.",negatif,negatif,negatif,ok,,1,1.4883112499956042,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,39,"Kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,negatif,negatif,ok,,1,0.6329229580005631,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,158,"Produk palsu, bukan barang original seperti yang dijanjikan.",negatif,negatif,negatif,ok,,1,0.8484187919530086,103,2,0,105,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,43,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,ok,,1,1.1274642500211485,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,127,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,negatif,ok,,1,0.6636832910007797,102,2,0,104,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,179,"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif,positif,ok,,1,0.9308271249756217,101,2,0,103,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+utama,198,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.6636968330130912,104,2,0,106,83.652840499999,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,7,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,2,0.7409893329604529,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,8,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,positif,ok,,4,0.8096895830240101,99,2,0,101,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,14,"Barang yang datang tidak sesuai dengan foto, kecewa berat.",negatif,negatif,negatif,ok,,1,0.7331903749727644,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,15,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.5959266249556094,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,22,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,positif,ok,,1,0.467250999994576,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,25,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,1.1152539169997908,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,30,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,0.739773916953709,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,35,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.5448311669752002,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,40,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.6652070410200395,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,45,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,1,0.4999357499764301,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,48,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,0.5694638749700971,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,59,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,0.44137879100162536,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,62,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,0.6575579170021228,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,69,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,positif,ok,,1,0.6155381249845959,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,76,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,1,1.235341832973063,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,87,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,positif,ok,,1,0.9214857920305803,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,95,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,0.9317818329436705,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,96,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,1,0.5532272499985993,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,109,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,3,0.7349206250510179,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,110,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,2,0.6549122090218589,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,121,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.7809013330261223,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,128,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,4,0.9582315830048174,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,132,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,0.50266587495571,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,133,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.6860091249691322,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,137,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,1,0.7106696669943631,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,142,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,1,0.793821916973684,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,144,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.5639637499698438,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,150,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,positif,ok,,1,0.5648491669562645,99,2,0,101,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,151,Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,negatif,ok,,1,0.7671185420476831,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,153,"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,positif,ok,,1,0.5410457079997286,102,2,0,104,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,154,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.5052210830035619,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,157,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.8515052499715239,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,165,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,1,0.9014827079954557,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,175,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.5779752500238828,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,180,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.5161644580075517,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,186,"Belanja disini selalu puas, kualitas terjaga.",positif,positif,positif,ok,,1,0.5207056250073947,99,2,0,101,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,188,"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,positif,ok,,1,0.4461551250424236,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,190,Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,negatif,ok,,1,0.5634658329654485,98,2,0,100,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,196,"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,negatif,ok,,2,0.5888388340245001,103,2,0,105,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08
+group,198,"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,positif,ok,,4,0.6200478749815375,104,2,0,106,166.38337100000354,gemini-3.5-flash-lite,2026-11-15 00:48:08

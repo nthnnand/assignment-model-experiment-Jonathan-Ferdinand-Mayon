@@ -1,0 +1,9 @@
+Model / evaluasi,n sampel,Leakage teks train→test,Accuracy,Accuracy 95% CI,Precision (positif),Recall (positif),F1 (positif),Precision (macro),Recall (macro),F1 (macro)
+Scikit-learn — split utama,40,ya (39/40),1.0,"[0.912, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0
+Gemini — split utama,40,tidak relevan (tanpa training),1.0,"[0.912, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0
+Scikit-learn — 26 teks unik (split utama),26,ya (25/26),1.0,"[0.871, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0
+Gemini — 26 teks unik (split utama),26,tidak relevan (tanpa training),1.0,"[0.871, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0
+Scikit-learn — group split (fold 0),40,tidak,0.625,"[0.470, 0.758]",0.6842,0.5909,0.6341,0.6278,0.6288,0.6248
+Gemini — group split (fold 0),40,tidak relevan (tanpa training),1.0,"[0.912, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0
+"Scikit-learn — group split, 8 teks unik",8,tidak,0.75,"[0.409, 0.929]",0.75,0.75,0.75,0.75,0.75,0.75
+"Gemini — group split, 8 teks unik",8,tidak relevan (tanpa training),1.0,"[0.676, 1.000]",1.0,1.0,1.0,1.0,1.0,1.0

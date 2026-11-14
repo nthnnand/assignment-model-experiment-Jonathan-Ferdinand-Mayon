@@ -1,0 +1,18 @@
+# Diuji dengan Python 3.14.4 (macOS). Semua package di bawah membutuhkan Python >= 3.11.
+
+# Data & evaluasi
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.9.1
+
+# Visualisasi
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Gemini API
+google-genai==3.3.0
+python-dotenv==1.2.2
+
+# Menjalankan notebook (kernel untuk VS Code/Jupyter, nbconvert untuk eksekusi lewat terminal)
+ipykernel==7.4.0
+nbconvert==7.17.2
